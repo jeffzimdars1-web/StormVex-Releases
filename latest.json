@@ -1,7 +1,7 @@
 {
   "packageName": "com.cipher.stormvex",
-  "versionCode": 9,
-  "versionName": "0.2.7",
-  "apkUrl": "https://github.com/jeffzimdars1-web/StormVex-Releases/releases/download/v0.2.7/StormVex-v0.2.7-signed.apk",
-  "sha256": "4158dc15bf033228dc300ed58d93ff80ee9b19f9e89a67d60625cfb4b83a7873"
+  "versionCode": 10,
+  "versionName": "0.2.8",
+  "apkUrl": "https://github.com/jeffzimdars1-web/StormVex-Releases/releases/download/v0.2.8/StormVex-v0.2.8-signed.apk",
+  "sha256": "af6ee2e26fdd1b61c6e7576cc6cdfa4dd2ea597833c9a09434853c450162ccc4"
 }
